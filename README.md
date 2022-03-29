@@ -1,12 +1,3 @@
-<html>
-<head>
-<style type="text/css">
-body
-{ 
-background:white 
-}
-</style>
-</head>
 
 
 #  <img width="40px" src="https://gitee.com/bluemarkstudio/shanhai/raw/master/logo/zhb.jpg" ><img width="120px" src="https://webinput.nie.netease.com/img/mc/logo.png" >山海异世(肝帝系列)模组 wiki
