@@ -3,7 +3,6 @@
 <style type="text/css">
 body
 { 
-/* background: url(https://gitee.com/bluemarkstudio/shanhai/raw/master/logo/zhb.jpg) ;  */
 background:white 
 }
 </style>
